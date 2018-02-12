@@ -13,7 +13,8 @@ section {
   background-color: #900C3F;
   border: 1px solid black;
   width: 90%;
-  height: 230px;
+  min-height: 230px;
+  overflow: auto;
   margin-left: auto;
   margin-right: auto;
   margin-top: 20px;
